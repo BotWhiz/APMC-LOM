@@ -7,5 +7,5 @@ This repository contains the open-source project for **APMC-LOM: Accurate 3D LiD
 Here are some of the experimental results from our paper:
 
 ### Result : 3D LiDAR Map
-![3D LiDAR Map](https://github.com/BotWhiz/APMC-LOM/blob/main/kitti_mapping.pdf)
+![3D LiDAR Map](https://github.com/BotWhiz/APMC-LOM/blob/main/kitti_01.png)
 
